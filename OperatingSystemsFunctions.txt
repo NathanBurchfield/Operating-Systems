@@ -4,7 +4,11 @@ Booting is one of the functions of an operating system. There is " Cold Booting"
 Cold Booting is when the computer is completely dead and power is shut off to the mother board. 
 Warm/Soft Booting would be when the motherboard is still reciveving power, the computer is asleep, but is restarted, that would be a "Soft/Warm Booting".  
 
-Edit the file to add another short description (3 - 4 sentences) of another operating system function
+Edit the file to add another short description (3 - 4 sentences) of another operating system function.
 
 Disk utilty is a another function of an operating system. It allows users to manage disk drives. 
 You can manage disk partitions  and view key statistics in regards to give partitions. 
+
+Edit the file to add another short description (3 - 4 sentences) of another operating system function.
+Process Management is another operating system function. It is used for scheduling processmanagement of deadlock, and termination of processes.
+Processes use memory of the computer and its CPU when they run. Linux operationing systems have various commands you can use for process management.
