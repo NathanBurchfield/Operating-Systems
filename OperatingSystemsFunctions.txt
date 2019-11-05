@@ -1,0 +1,5 @@
+In your own words, write a short description (3 - 4 sentences) of one operating system function.
+
+Booting is one of the functions of an operating system. There is " Cold Booting" and there is " Warm/Soft Booting". 
+Cold Booting is when the computer is completely dead and power is shut off to the mother board. 
+Warm/Soft Booting would be when the motherboard is still reciveving power, the computer is asleep, but is restarted, that would be a "Soft/Warm Booting".  
